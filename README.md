@@ -9,3 +9,4 @@ Used pycaw (Python Core Audio Windows Library) to adjust the volume of the syste
 1. Create the HandTranckingModule.py file for the basic Hand Tracking.
 2. Create the VolumeComtrol.py for the actual Volume Control functionality.
 3. Allow the Windowns permissions for pycaw to control the volume.
+4. Run the VolumeControl.py file.
