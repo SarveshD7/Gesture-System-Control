@@ -5,6 +5,6 @@ Computer Vision based Hand Tracking project for gesture volume control using Ope
 <br>
 Used pycaw (Python Core Audio Windows Library) to adjust the volume of the system.
 <br>
-# To run the project of system
+# To run the project on system
 1. Create the HandTranckingModule.py file for the basic Hand Tracking.
 2. Create the VolumeComtrol.py for the actual Volume Control functionality.
