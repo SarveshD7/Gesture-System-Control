@@ -1,10 +1,13 @@
-# Gesture-Controlled Applications
+`# Gesture-Controlled Applications
 
 This project implements **Gesture Volume Control** and a **Virtual Mouse** using hand gestures, leveraging **OpenCV**, **Mediapipe**, and **autopy** for computer vision and interaction.
 
 ---
+
 <img align="left" src="https://raw.githubusercontent.com/SarveshD7/Gesture-Volume-Control/main/HandLandmarks.png" alt="Sarvesh | C" width="1000px"/>
+
 ---
+
 ## Features
 
 ### 1. Gesture Volume Control
